@@ -9,6 +9,7 @@ body {
     font-size: 16px;
 }
 
+/*start of header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,6 +47,7 @@ header a {
     color: #ffffff;
     text-decoration: none;
 }
+/*end of header*/
 
 .hero {
     height: 800px;
@@ -56,6 +58,7 @@ header a {
     background-position: center;
 }
 
+/*start of main content*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -107,7 +110,9 @@ main h2 {
 section img {
     max-height: 200px;
 }
+/* end of main*/
 
+/* start of aside*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,7 +139,9 @@ section img {
     margin: 10px auto;
     max-width: 150px;
 }
+/* end of aside*/
 
+/*start of footer*/
 footer {
     padding: 30px;
     clear: both;
@@ -145,3 +152,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/*end of footer*/
