@@ -2,7 +2,7 @@
 
 <h2>Summary<h2>
 
-![screenshot of final site](.assets/images/screenshot.png)
+![screenshot of final site](./assets/images/screenshot.png)
 
 Several changes were completed to the Horiseon site based on the User Story and Acceptance criteria. The below changes were made to the site's code.
 
